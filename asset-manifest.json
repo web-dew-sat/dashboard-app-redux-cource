@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/dashboard-app-redux-cource/static/css/main.abea8f3e.css",
+    "main.js": "/dashboard-app-redux-cource/static/js/main.52712c95.js",
+    "static/media/bg-header-desktop.svg": "/dashboard-app-redux-cource/static/media/bg-header-desktop.8694f4668c94cdc9d16e.svg",
+    "index.html": "/dashboard-app-redux-cource/index.html",
+    "static/media/bg-header-mobile.svg": "/dashboard-app-redux-cource/static/media/bg-header-mobile.9cb13612af1317a665a2.svg",
+    "static/media/icon-remove.svg": "/dashboard-app-redux-cource/static/media/icon-remove.70c075ce001e5ccae7c68a570c4b7bc0.svg",
+    "main.abea8f3e.css.map": "/dashboard-app-redux-cource/static/css/main.abea8f3e.css.map",
+    "main.52712c95.js.map": "/dashboard-app-redux-cource/static/js/main.52712c95.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.abea8f3e.css",
+    "static/js/main.52712c95.js"
+  ]
+}
